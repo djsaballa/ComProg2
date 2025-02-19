@@ -1,0 +1,17 @@
+public class SwitchCaseDemo {
+	public static void main(String[] args) {
+
+	  int num = 9;
+	  
+	  switch(num) {
+  	  case 9:
+  		  System.out.println("Num is 9");
+  		  break;
+  	  case 10:
+  		  System.out.println("Num is 10");
+  		  break;
+  	  default:
+  		  System.out.println("Num is not 9 or 10");
+	  }
+  }
+}
