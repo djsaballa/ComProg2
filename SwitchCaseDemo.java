@@ -4,7 +4,7 @@ public class SwitchCaseDemo {
 	  int num = 9;
 	  
 	  switch(num) {  // Check expression in switch condition
-  	  case 9:
+  	  case 9:  // Output differs depending on num variable value
   		  System.out.println("Num is 9");
   		  break;
   	  case 10:
