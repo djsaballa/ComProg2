@@ -10,7 +10,6 @@ public class ScannerInputDemo{
 		System.out.println("Enter num2: ");
 		int num2 = input.nextInt();  // Read user input
 		
-
 		System.out.println("Sum: " + (num1 + num2));  // Output user input
 		System.out.println("Diff: " + (num1 - num2));  // Output user input
 		System.out.println("Quot: " + (num1 / num2));  // Output user input
