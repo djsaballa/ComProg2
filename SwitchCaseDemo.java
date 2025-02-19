@@ -3,7 +3,7 @@ public class SwitchCaseDemo {
 
 	  int num = 9;
 	  
-	  switch(num) {
+	  switch(num) {  // Check expression in switch condition
   	  case 9:
   		  System.out.println("Num is 9");
   		  break;
