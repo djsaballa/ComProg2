@@ -5,9 +5,9 @@ public class LinkedListDemo {
 	public static void main(String[] args) {
 		
 	    // Create object of ArrayList
-		LinkedList<String> cars = new LinkedList<String>();
+	    LinkedList<String> cars = new LinkedList<String>();
 	    
-		// Add values in the LinkedList
+	    // Add values in the LinkedList
 	    cars.add("Volvo");
 	    cars.add("BMW");
 	    cars.add("Ford");
